@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mediwave/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/mediwave/static/js/main.6d30604e.chunk.js",
+    "main.js.map": "/mediwave/static/js/main.6d30604e.chunk.js.map",
+    "runtime-main.js": "/mediwave/static/js/runtime-main.b915d5df.js",
+    "runtime-main.js.map": "/mediwave/static/js/runtime-main.b915d5df.js.map",
+    "static/css/2.267ffeee.chunk.css": "/mediwave/static/css/2.267ffeee.chunk.css",
+    "static/js/2.0a67d39b.chunk.js": "/mediwave/static/js/2.0a67d39b.chunk.js",
+    "static/js/2.0a67d39b.chunk.js.map": "/mediwave/static/js/2.0a67d39b.chunk.js.map",
+    "static/js/3.9af8775a.chunk.js": "/mediwave/static/js/3.9af8775a.chunk.js",
+    "static/js/3.9af8775a.chunk.js.map": "/mediwave/static/js/3.9af8775a.chunk.js.map",
+    "index.html": "/mediwave/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/mediwave/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/mediwave/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.0a67d39b.chunk.js.LICENSE.txt": "/mediwave/static/js/2.0a67d39b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b915d5df.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.0a67d39b.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.6d30604e.chunk.js"
+  ]
+}
