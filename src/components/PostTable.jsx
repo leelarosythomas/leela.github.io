@@ -2,7 +2,7 @@ import React from 'react';
 
 const PostTable = (props) => {
     return (
-<div>
+<div className="table-responsive">
      
         <table className = "table table-striped table-bordered">
 
